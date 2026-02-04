@@ -1,0 +1,9 @@
+Setting virtual environment
+- python3 -m venv .venv
+Activation!
+- source .venv/bin/activate
+Installation libs
+- pip install tensorflow numpy matplotlib opencv-python
+Run script
+python main.py
+
